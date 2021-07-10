@@ -1,3 +1,3 @@
 # data8
 Review my Datascience foundations
-- [ ] Lab 1
+- [x] Lab01 07/10/2021
